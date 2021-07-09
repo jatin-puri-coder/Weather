@@ -1,3 +1,14 @@
+This is a simple Weather App where you enter the name of the city and get the current weather.
+
+The background changes according to the weather as well.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
