@@ -113,3 +113,15 @@ main {
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 
 }
+
+.force-mobile {
+  max-width: 750px;
+  max-height: 1364px;
+  margin: 0 auto;
+  border-style:solid;
+  border-color: inherit;
+  border-width: 4px;
+  transform: scale(1);
+  transform-origin:center;
+  display: block;
+}
