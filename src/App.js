@@ -8,7 +8,7 @@ const api = {
 
 function App() {
 
-  const [query, setQuery] = useState(' ');
+  const [query, setQuery] = useState('');
   const [weather, setWeather] = useState({});
 
   const search = (evt) => {
